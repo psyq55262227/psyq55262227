@@ -10,4 +10,6 @@
 
 顺手的技术栈：`React` / `TypeScript` / `Windicss` / `Taro.js` / `Vue(2.x)`
 
+blog: [psyq的日常](https://blog.psyqlk.space)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyq55262227&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
