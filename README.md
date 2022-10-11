@@ -2,13 +2,13 @@
 
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=psyq55262227&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true'/>
 
-### About Me
+### ✨ About Me
 
-- FE learner | CS student ~~| D-list Painter~~
-- learn to express in English
-- peace & love
+- FE learner | CS student | Junior ~~| D-list Painter~~
+- Learn to express in English
+- Peace & Love
 
-### Tech Stack
+### 💡 Tech Stack
 
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -26,8 +26,8 @@
   ![Premiere Pro](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![SAI](https://img.shields.io/badge/-SAI-333333?style=flat&logo=sai)
 
-### Reach Me
+### 📞 Reach Me
 
-- blog: [psyq's daily](https://blog.psyqlk.space) ( tech & life ）
+- blog: [psyq's daily](https://blog.psyqlk.space) ( both tech & life ）
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyq55262227&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
