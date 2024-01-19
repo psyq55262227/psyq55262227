@@ -1,33 +1,29 @@
-## Hi here~:D I'm psyq!
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm psyq</h3>
 
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=psyq55262227&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true'/>
+<!-- Profile Views -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=psyq55262227&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+<p align="center">
+  <a href="https://www.blog.psyqlk.space">Blog</a>
+</p>
 
-### ✨ About Me
+---
 
-- FE learner | CS student | Junior ~~| D-list Painter~~
-- Learn to express in English
-- Peace & Love
+- 🔭 A senior majoring in CS
+- 💬 Chatting with me about React & Typescript ❤ 
+- 🌱 Currently learning BE & IELTS
+- 😄 Trying to become braver and happier
 
-### 💡 Tech Stack
 
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Verilog](https://img.shields.io/badge/-Verilog-333333?style=flat&logo=verilog)
-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- ![Photoshop](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
-  ![Premiere Pro](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![SAI](https://img.shields.io/badge/-SAI-333333?style=flat&logo=sai)
+<div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyq55262227" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyq55262227&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
 
-### 📞 Reach Me
-
-- blog: [psyq's daily](https://blog.psyqlk.space) ( both tech & life ）
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyq55262227&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=psyq55262227&show_icons=true" />
+</details>
