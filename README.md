@@ -16,6 +16,7 @@
 - 🌱 Currently learning BE & IELTS
 - 😄 Trying to become braver and happier
 
+### My GitHub Stats
 
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyq55262227" alt="Gift's LangStat" />
