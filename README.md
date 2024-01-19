@@ -12,9 +12,10 @@
 ---
 
 - 🔭 A senior majoring in CS
-- 💬 Chatting with me about React & Typescript ❤ 
+- 💬 Chatting with me about React & TypeScript ❤ 
 - 🌱 Currently learning BE & IELTS
-- 😄 Trying to become braver and happier
+- 😎 Trying to become more knowledgeable and professional
+- 🎉 Nice to meet u~
 
 ### My GitHub Stats
 
